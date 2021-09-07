@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3546" started-at="2021-06-30T12:34:37 CDT" finished-at="2021-06-30T12:34:41 CDT">
+  <suite name="Default suite" duration-ms="3565" started-at="2021-06-30T12:54:12 CDT" finished-at="2021-06-30T12:54:15 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3546" started-at="2021-06-30T12:34:37 CDT" finished-at="2021-06-30T12:34:41 CDT">
+    <test name="Default test" duration-ms="3565" started-at="2021-06-30T12:54:12 CDT" finished-at="2021-06-30T12:54:15 CDT">
       <class name="testCases.Post_create_a_product_with_imported_jsonFile">
-        <test-method status="PASS" signature="create_certain_product_hybdrid()[pri:0, instance:testCases.Post_create_a_product_with_imported_jsonFile@2f943d71]" name="create_certain_product_hybdrid" duration-ms="3463" started-at="2021-06-30T12:34:37 CDT" finished-at="2021-06-30T12:34:41 CDT">
+        <test-method status="PASS" signature="create_certain_product_hybdrid()[pri:0, instance:testCases.Post_create_a_product_with_imported_jsonFile@2f943d71]" name="create_certain_product_hybdrid" duration-ms="3477" started-at="2021-06-30T12:54:12 CDT" finished-at="2021-06-30T12:54:15 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_certain_product_hybdrid -->
